@@ -1,7 +1,7 @@
 
 
 ----------------------------
---(Made By Qalle)--
+--(Made By Deraczi)--
 ----------------------------
 
 ESX               = nil
@@ -18,7 +18,7 @@ AddEventHandler('esx:playerLoaded', function(xPlayer)
   PlayerData = xPlayer
 end)
 
------ Kommando
+----- Komenda
 
 RegisterCommand("lobby", function(source)
 
